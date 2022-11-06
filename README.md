@@ -1,12 +1,12 @@
-![Hello there 👋](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+![Hello there 👋](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-I’m Milan
+##👋 I’m Milan
 
 - 🔭 I’m currently in my final year @Landrat-Gruber-Schule Dieburg 
 - 🌱 For my A-Levels I’m developing a web app with @vuejs
 - 👾 You can reach on Discord @milllan#2386
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milantheiss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milantheiss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **milantheiss/milantheiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
