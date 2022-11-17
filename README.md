@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently in my final year @Landrat-Gruber-Schule Dieburg 
 - 🌱 For my A-Levels I’m developing a web app with @vuejs
-- 👾 You can reach on Discord @milllan#2386
+- 👾 You can reach me on Discord @milllan#2386
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milantheiss&layout=compact&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
