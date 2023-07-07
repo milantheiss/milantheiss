@@ -2,9 +2,10 @@
 
 ## 👋 I’m Milan  
   
-- 🔭 I’m currently in my final year [@Landrat-Gruber-Schule Dieburg](https://github.com/lgs-dieburg)
-- 🌱 For my A-Levels I’m developing a web app with [@vuejs](https://github.com/vuejs)
-- 👾 You can reach me on [Discord](https://discord.com) @milllan
+- 🔭 I'm starting a dual degree in computer science at [@Software AG](https://github.com/softwareag) in October. 
+- 🎓 I went to [@Landrat-Gruber-Schule Dieburg](https://github.com/lgs-dieburg)
+- 🌱 Interested in web development.
+- 👾 You can reach me on Discord [@milllan](https://discord.com/users/252817187247620097)
 ##  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milantheiss&layout=compact&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
