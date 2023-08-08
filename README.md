@@ -2,9 +2,9 @@
 
 ## 👋 I’m Milan  
   
-- 🔭 I'm starting a dual degree in computer science at [@Software AG](https://github.com/softwareag) in October. 
-- 🎓 I went to [@Landrat-Gruber-Schule Dieburg](https://github.com/lgs-dieburg)
-- 🌱 Interested in web development.
+- 🔭 I'm starting a dual degree in computer science at [Darmstadt University of Applied Sciences](https://h-da.de) in October.
+- 🧑‍💻 I'll be working at [@Software AG](https://github.com/softwareag) starting October.
+- 🎓 I went to [@Landrat-Gruber-Schule Dieburg](https://github.com/lgs-dieburg).
 - 👾 You can reach me on Discord [@milllan](https://discord.com/users/252817187247620097)
 ##  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milantheiss&layout=compact&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
