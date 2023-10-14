@@ -2,8 +2,8 @@
 
 ## 👋 I’m Milan  
   
-- 🔭 I'm starting a dual degree in computer science at [Darmstadt University of Applied Sciences](https://h-da.de) in October.
-- 🧑‍💻 I'll be working at [@Software AG](https://github.com/softwareag) starting October.
+- 🔭 I'm studying computer science - dual at [Darmstadt University of Applied Sciences](https://h-da.de).
+- 🧑‍💻 I work at [@Software AG](https://github.com/softwareag).
 - 🎓 I went to [@Landrat-Gruber-Schule Dieburg](https://github.com/lgs-dieburg).
 - 👾 You can reach me on Discord [@milllan](https://discord.com/users/252817187247620097)
 ##  
